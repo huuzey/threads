@@ -6,6 +6,6 @@ Threads app with some functionalities implemented.
 6.Absolutely mobile, tablets and desktop responsive website.
 7.Tech stacks: Next.Js, React.js, Typescript, Mongo DB, Shadcn-ui, Tailwind CSS, Zod(validation of the inputs), Clerk(Authentication), Uploadthing.com(Image Upload),
               React-hook-form(form inputs).
-
+8.I also can add functionalities of liking a thread and the like but nothing worths rather wasting of time because I did a lot of like functionalities before.
 
               Thanks a lot!!!
